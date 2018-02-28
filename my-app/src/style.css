@@ -1,0 +1,31 @@
+topmenu {
+  background-color:#F5F5F5;
+  box-shadow:none;
+  border: none;
+}
+
+.grey-background {
+  background-color: #292929;
+  height: 300px;
+  color: white;
+}
+
+.listHeader {
+  color: white;
+}
+
+.MiddleSection {
+  background: url(http://murphyshawaii.com/media/2014/04/murphys-front.jpg) no-repeat center center fixed;
+  background-size: cover;
+  height: 500px;
+  color: white;
+}
+
+.FooterMenu {
+  background-color: #004030;
+  color: white;
+}
+
+hr {
+  border-color: white;
+}
